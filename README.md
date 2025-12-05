@@ -106,7 +106,6 @@ L’analyse consiste à :
 * Corréler température extérieure et intérieure
 * Observer les périodes de chauffage continu (surtout avant le 26 janvier)
 
-Cette approche permet d’inférer les règles réelles de contrôle, qui peuvent différer du modèle théorique.
 
 # Auteurs
 
